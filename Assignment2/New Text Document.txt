@@ -1,0 +1,24 @@
+Description
+
+Are you interested in building hyper-scale database services in the cloud? Do you want to revolutionize the way databases are built for the cloud? Do you want to have direct and immediate impact on hundreds of thousands of users who use AWS database services?
+Amazon Aurora offers MySQL and Postgres compatible, relational database engines that combine the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. It provides up to five times better performance than MySQL, up to twice the performance of PostgreSQL, all at a price point one tenth that of a commercial database while delivering similar performance and availability.
+Amazon Aurora teams are looking for software developers who are passionate about databases and large-scale storage system technologies, and excited about building database systems that run across thousands of servers across multiple datacenters worldwide. These are core systems development positions where you will grow to own the design and development of significant system software components critical to our industry leading database services architected for the cloud.
+We are looking for candidates who are exceptional in systems programming, data structures and algorithms, and advanced databases. Research and hands-on experience working in database research groups and labs is preferred. You not only need to be a top software developer with a good academic and/or research track record, but also need to excel in communication and leadership. This is a unique and rare opportunity to get in on the ground floor within a fast-growing business and help shape the technology and the product. We have opportunities for internships with our Palo Alto, CA, Seattle, Wa and Toronto, ON teams.
+
+Basic Qualifications
+• Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+Enrolled in B.S / M.S / Ph.D. in Computer Science with focused study and research experience in three or more of the following areas: 1) Advanced databases/query processing areas 2) Database engine internals (storage): indexing, access methods, concurrency control, logging, caching, transaction processing, replication, backup restore, buffer management 3) Database engine internals (query processing): query compilation, optimization, execution, parallel execution 4) Distributed systems: consensus-based quorum replication, NoSQL system implementation
+• Must be currently enrolled in accredited college/university degree program.
+
+Preferred Qualifications
+
+Candidates with strong interests and academic qualifications / research focus in file and storage systems, compilers, operating systems, networking, computer architecture, etc. are also encouraged to apply.
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Company - Amazon Data Services, Inc.
+Job ID: A1012878
