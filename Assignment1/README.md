@@ -1,5 +1,4 @@
 # CSE 512 - Distributed Database Systems assignments 
-<pre>
 Assignments for Distributed Database Systems assignments
 
 The required task is to simulate data partitioning approaches on-top of an open source relational database management system (i.e., PostgreSQL). Each student must generate a set of Python functions that load the input data into a relational table, partition the table using different horizontal fragmentation approaches, and insert new tuples into the right fragment. A detailed explanation about round-robin partitioning and range partitioning can be found here: https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.parjob.dev.doc/topics/partitioning.html (Links to an external site.)
@@ -38,5 +37,4 @@ Partition 1 has values (1.67, 3.34]
 Partition 2 has values (3.34, 5]
  
 Uniform ranges means a region is divided uniformly
-</pre>
 
